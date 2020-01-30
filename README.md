@@ -12,7 +12,7 @@ Reference: https://github.com/rstudio-conf-2020/build-tidy-tools/tree/master/not
 
 ## Installation
 
-You can install the released version of mysddemo from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of mysddemo from GitHub with:
 
 ``` r
 devtools::install_github("nayefahmad/mysddemo")
